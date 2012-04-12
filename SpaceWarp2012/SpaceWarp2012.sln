@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceWarp", "SpaceWarp\SpaceWarp\SpaceWarp.csproj", "{BC39B691-CB78-4735-81AC-21F7E986570D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpaceWarpContent", "SpaceWarp\SpaceWarpContent\SpaceWarpContent.contentproj", "{9346CEA6-045C-4398-B20F-21C413E0E9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xnaExtras", "xnaExtras\xnaExtras.csproj", "{68F7A6FC-3F23-4924-AE87-F9B45A62358D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC39B691-CB78-4735-81AC-21F7E986570D}.Debug|x86.ActiveCfg = Debug|x86
+		{BC39B691-CB78-4735-81AC-21F7E986570D}.Debug|x86.Build.0 = Debug|x86
+		{BC39B691-CB78-4735-81AC-21F7E986570D}.Release|x86.ActiveCfg = Release|x86
+		{BC39B691-CB78-4735-81AC-21F7E986570D}.Release|x86.Build.0 = Release|x86
+		{9346CEA6-045C-4398-B20F-21C413E0E9A6}.Debug|x86.ActiveCfg = Debug|x86
+		{9346CEA6-045C-4398-B20F-21C413E0E9A6}.Release|x86.ActiveCfg = Release|x86
+		{68F7A6FC-3F23-4924-AE87-F9B45A62358D}.Debug|x86.ActiveCfg = Debug|x86
+		{68F7A6FC-3F23-4924-AE87-F9B45A62358D}.Debug|x86.Build.0 = Debug|x86
+		{68F7A6FC-3F23-4924-AE87-F9B45A62358D}.Release|x86.ActiveCfg = Release|x86
+		{68F7A6FC-3F23-4924-AE87-F9B45A62358D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\GAME251W11\Learning_Materials\week12\TimedLab4-XNADodgeBlade2XNAExtras\xnaExtras\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GAME251W11\Learning_Materials\week13\Lab7-DodgeBlade3Complete\xnaExtras\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GAME251W11\Learning_Materials\week14\Week14-DodgeBladeFinal\xnaExtras\Content\obj\x86\Debug\ResolveAssemblyReference.cache
